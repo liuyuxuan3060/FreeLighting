@@ -14,7 +14,7 @@ With the text-guided relighting model, FreeLighting allows users to upload an im
 
 Regarding the image-guided relighting model, by inputting an original image along with a reference image, FreeLighting can transfer both the lighting and background elements from the reference image to the original image. Unlike other relighting models that require reference images of pure scenes with aligned perspective angles, FreeLighting supports references that include foreground elements and can be taken from any perspective angle. This flexibility makes it more versatile for a wider range of applications. Currently, the image-guided FreeLighting model shows superior performance on portrait photos. The next step is to extend its capabilities to cover more categories. By doing so, FreeLighting aims to offer consistent and high-quality relighting adjustments for diverse subjects and scenes, making it a more comprehensive tool for image manipulation.
 
-We will push the experience demo on Huggingface Space and Modelscope. We will further publish our professional model on our own Software as a Service <a href="https://marketing.k-fashionshop.com/" target="_blank">(SAAS)</a> platform. 👋 Join our <a href="WECHAT.md" target="_blank">WeChat</a> 
+We will push the experience demo on Huggingface Space and Modelscope. We will further publish our professional model on our own Software as a Service platform, for <a href="https://marketing.k-fashionshop.com/" target="_blank">Chinese users</a> and for <a href="https://www.visboom.com/home" target="_blank">Non-Chinese users</a>. 👋 Join our <a href="WECHAT.md" target="_blank">WeChat</a> 
 
 
 <!-- <div align="center"> -->
