@@ -62,10 +62,10 @@ The first column displays original images, the second column displays reference 
 More information will be added later ...
 
 
-
+<!-- 
 # Related Work
 
 https://github.com/lllyasviel/IC-Light
 
-https://github.com/lllyasviel/LuminaBrush
+https://github.com/lllyasviel/LuminaBrush -->
 
