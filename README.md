@@ -37,7 +37,6 @@ You will get a better result when the uploaded image is uniform white lighting.
 <img src=demos/text-guided/2.webp />
 <img src=demos/text-guided/3.webp />
 <img src=demos/text-guided/4.webp />
-<img src=demos/text-guided/5.webp />
 
 ## Image-guided Relighting
 <img src=demos/image-guided/2.jpg />
