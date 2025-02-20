@@ -30,7 +30,7 @@ We will push the experience demo on Huggingface Space and Modelscope. We will fu
   - [ ] technical report
 
 # Demos
-You will get a better result when the uploaded image is uniform white lighting.
+You will get a better result when the uploaded image is uniform white lighting. All the images listed in the repository have been generated using an AI image generation model.
 
 ## Text-guided Relighting
 <img src=demos/text-guided/1.webp />
