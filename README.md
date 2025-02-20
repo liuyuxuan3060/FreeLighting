@@ -33,12 +33,16 @@ We will push the experience demo on Huggingface Space and Modelscope. We will fu
 You will get a better result when the uploaded image is uniform white lighting. All the images listed in the repository have been generated using an AI image generation model.
 
 ## Text-guided Relighting
+The left column displays original images, and the right column displays relighted images.
+
 <img src=demos/text-guided/1.webp />
 <img src=demos/text-guided/2.webp />
 <img src=demos/text-guided/3.webp />
 <img src=demos/text-guided/4.webp />
 
 ## Image-guided Relighting
+The first column displays original images, the second column displays reference images, and the third column displays relighted images.
+
 <img src=demos/image-guided/2.jpg />
 <img src=demos/image-guided/3.jpg />
 <img src=demos/image-guided/4.jpg />
