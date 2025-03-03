@@ -1,4 +1,4 @@
-# FreeLighting
+# FreeLighting: A Next-generation Relighting Model with Background Replica
 
 **Work in Progress: this page may be continuously updated and the model is also continuously updated.**
 
