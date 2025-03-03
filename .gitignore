@@ -1,2 +1,6 @@
 ossutil_output
 .DS_Store
+app.py
+test.jpg
+metac_api.py
+__pycache__
