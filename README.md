@@ -13,9 +13,9 @@ For image-guided relighting model, taking an original image and a reference imag
 
 FreeLighting is a DIT-based relighting model designed to manipulate the illumination and background of images. It currently includes two types of models: a text-guided relighting model and an image-guided relighting model.
 
-With the text-guided relighting model, FreeLighting allows users to upload an image and then relight the foreground object while simultaneously replacing the background based on a text prompt. Compared to existing relighting models, FreeLighting excels at preserving the texture and intrinsic properties of the original images.
+With the text-guided relighting model, FreeLighting allows users to upload an image and then relight the foreground object while simultaneously replacing the background based on a text prompt. Compared to existing relighting models, **FreeLighting excels at preserving the texture and intrinsic properties of the original images.**
 
-Regarding the image-guided relighting model, by inputting an original image along with a reference image, FreeLighting can transfer both the lighting and background elements from the reference image to the original image. Unlike other relighting models that require reference images of pure scenes with aligned perspective angles, FreeLighting supports references that include foreground elements and can be taken from any perspective angle. This flexibility makes it more versatile for a wider range of applications. Currently, the image-guided FreeLighting model shows superior performance on portrait photos. The next step is to extend its capabilities to cover more categories. By doing so, FreeLighting aims to offer consistent and high-quality relighting adjustments for diverse subjects and scenes, making it a more comprehensive tool for image manipulation.
+Regarding the image-guided relighting model, by inputting an original image along with a reference image, FreeLighting can transfer both the lighting and background elements from the reference image to the original image. **Unlike other relighting models that require reference images of pure scenes with aligned perspective angles, FreeLighting supports references that include foreground elements and can be taken from any perspective angle.** This flexibility makes it more versatile for a wider range of applications. Currently, the image-guided FreeLighting model shows superior performance on portrait photos. The next step is to extend its capabilities to cover more categories. By doing so, FreeLighting aims to offer consistent and high-quality relighting adjustments for diverse subjects and scenes, making it a more comprehensive tool for image manipulation.
 
 We push the experience demo on Huggingface Space and Modelscope. We will further publish our professional model on our own Software as a Service platform, for <a href="https://marketing.k-fashionshop.com/" target="_blank">Chinese users</a> and for <a href="https://www.visboom.com/home" target="_blank">Non-Chinese users</a>. 👋 Join our <a href="WECHAT.md" target="_blank">WeChat</a> 
 
@@ -50,9 +50,11 @@ The left column displays original images, and the right column displays relighte
 The first column displays original images, the second column displays reference images, and the third column displays relighted images.
 
 <img src=demos/image-guided/2.jpg />
+<img src=demos/image-guided/5.jpg />
+<img src=demos/image-guided/6.jpg />
+<img src=demos/image-guided/1.jpg />
 <img src=demos/image-guided/3.jpg />
 <img src=demos/image-guided/4.jpg />
-<img src=demos/image-guided/1.jpg />
 
 
 # bib
