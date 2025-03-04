@@ -25,7 +25,7 @@ We push the experience demo on Huggingface Space and Modelscope. We will further
 <!-- </div> -->
 
 # News
- - [20250303] FreeLighting is now available on <a href="https://huggingface.co/spaces/wulongmetac/FreeLighting" target="_blank">Huggingface Demo</a>  and <a href="https://www.modelscope.cn/studios/wulonglyx/FreeLighting" target="_blank">Modelscope Demo</a> (for Chinese users). Enjoy it and have fun!
+ - [20250303] FreeLighting is now available on <a href="https://huggingface.co/spaces/wulongmetac/FreeLighting" target="_blank">Huggingface Demo</a>  and <a href="https://www.modelscope.cn/studios/wulonglyx/FreeLighting" target="_blank">Modelscope Demo</a> (for Chinese users). FreeLighting now performs better when the uploaded image's aspect ratio is 4:3. Enjoy it and have fun!
 
 # ToDo
   - [x] text-guided relighting
