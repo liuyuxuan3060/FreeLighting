@@ -25,6 +25,9 @@ We push the experience demo on Huggingface Space and Modelscope. We will further
 <!-- </div> -->
 
 # News
+https://github.com/Kunbyte-AI/Lumen
+ - [20250916] Latest, we open source the video relighting model <a href="https://github.com/Kunbyte-AI/Lumen" target="_blank">Lumen</a>. We release the inference model in the Lumen respo.
+
  - [20250305] Latest, the Internet of <a href="https://huggingface.co/spaces/wulongmetac/FreeLighting" target="_blank">Huggingface Demo</a>  isn't quite well, which could cause failed cases. Users can turn to <a href="https://www.modelscope.cn/studios/wulonglyx/FreeLighting" target="_blank">Modelscope Demo</a>.
 
  - [20250303] FreeLighting is now available on <a href="https://huggingface.co/spaces/wulongmetac/FreeLighting" target="_blank">Huggingface Demo</a>  and <a href="https://www.modelscope.cn/studios/wulonglyx/FreeLighting" target="_blank">Modelscope Demo</a> (for Chinese users). FreeLighting now performs better when the uploaded image's aspect ratio is 4:3. Enjoy it and have fun!
